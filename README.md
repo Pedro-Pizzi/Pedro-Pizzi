@@ -21,7 +21,7 @@
  
 </div>
   
- ![Snake animation](https://github.com/rafaballerini/pedro-pizzi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/pedro-pizzi/blob/output/github-contribution-grid-snake.svg)
   
   
 
