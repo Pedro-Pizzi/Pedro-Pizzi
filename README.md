@@ -4,7 +4,7 @@
 - 🌱 Estudando C#
 - 📫 Contate-me no e-mail: pedropizzi35@gmail.com
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Pedro-Pizzi">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=pedro-pizzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-pizzi&layout=compact&langs_count=7&theme=dark"/>
