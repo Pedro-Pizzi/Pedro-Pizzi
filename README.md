@@ -1,7 +1,7 @@
 ### Olá eu sou o Pedro Pizzi 👋
 
 - 🔭 Estou a procura de novas oportunidades
-- 🌱 Estudando Python
+- 🌱 Estudando C#
 - 📫 Contate-me no e-mail: pedropizzi35@gmail.com
 
 <div align="left">
