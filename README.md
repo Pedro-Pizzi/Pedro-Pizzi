@@ -36,8 +36,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, combinando experiê
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Pizzi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Pedro" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Pizzi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedro-pizzi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Pedro" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-pizzi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
